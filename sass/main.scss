@@ -1,0 +1,25 @@
+/*
+	Ravuthz Bootstap Sass Template
+	Author  : Ravuthz
+	Version : 1.0.0
+	Publish : 26-March-2015 10:40 PM
+*/
+
+/* BASE - The base styles, such as variables, mixins, normalize, ... */
+@import "base/_base.scss";
+@import "base/_mixins.scss";
+@import "base/_normalize.scss";
+@import "base/_variables.scss";
+
+/* MODULES- The individual site components such as buttons, blocks, sections ... */
+@import "modules/_blocks.scss";
+@import "modules/_buttons.scss";
+@import "modules/_components.scss";
+@import "modules/_section.scss";
+@import "modules/_typography.scss";
+
+/* LAYOUTS - The web page layouts style such as header, nav, footer ... */
+@import "layouts/_header.scss";
+@import "layouts/_nav.scss";
+@import "layouts/_footer.scss";
+
